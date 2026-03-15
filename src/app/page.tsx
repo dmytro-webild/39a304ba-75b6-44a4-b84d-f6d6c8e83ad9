@@ -47,7 +47,7 @@ export default function LandingPage() {
             { text: "Смотреть меню", href: "#" }
           ]}
           background={{ variant: "plain" }}
-          imageSrc="http://img.b2bpic.net/free-photo/interior-design-neoclassical-style-with-furnishings-decor_23-2151199326.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzPFQaqTOYbR0rAnC9WTu2mkvq/uploaded-1773595022863-7eu1jlwl.jpg"
           imageAlt="Уютный интерьер ресторана Точка на Восточке"
           mediaAnimation="slide-up"
           buttonAnimation="slide-up"
