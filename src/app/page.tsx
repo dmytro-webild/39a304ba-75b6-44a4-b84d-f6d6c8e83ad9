@@ -117,7 +117,7 @@ export default function LandingPage() {
           description="Забронируйте столик заранее или просто заходите в гости! Мы открыты ежедневно и ждем вас."
           tagIcon={Heart}
           background={{ variant: "plain" }}
-          imageSrc="http://img.b2bpic.net/free-photo/middle-age-friends-night-having-dinner_23-2149190932.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzPFQaqTOYbR0rAnC9WTu2mkvq/uploaded-1773603485283-9wgb0cnu.png"
           imageAlt="Ресторан Точка на Восточке"
           mediaAnimation="slide-up"
           mediaPosition="right"
@@ -130,7 +130,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/young-curly-woman-enjoying-her-wine-bar_627829-6890.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzPFQaqTOYbR0rAnC9WTu2mkvq/uploaded-1773603709327-329590ho.png"
           imageAlt="Точка на Восточке ресторан Алматы"
           logoText="Точка на Восточке"
           copyrightText="© 2024 Точка на Восточке | Ресторан в Алматы"
