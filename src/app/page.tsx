@@ -57,17 +57,18 @@ export default function LandingPage() {
 
       <div id="features" data-section="features">
         <FeatureCardThree
-          title="Почему мы? Все дело в атмосфере и людях."
+          title="Почему мы?
+ Все дело в атмосфере и людях."
           description="Каждый визит в Точку на Восточке — это неповторимый опыт гостеприимства, где качество, чистота и профессионализм встречаются в каждой детали."
           features={[
             {
-              id: "quality",              title: "Отличная кухня по приятным ценам",              description: "Качество еды на высоте. Мы готовим так, чтобы вы захотели вернуться снова. Идеальный баланс вкуса и приемлемых цен.",              imageSrc: "http://img.b2bpic.net/free-photo/delicious-beef-meal-with-flower_23-2148516922.jpg",              imageAlt: "Профессиональное приготовление блюд"
+              id: "quality",              title: "Отличная кухня по приятным ценам",              description: "Качество еды на высоте. Мы готовим так, чтобы вы захотели вернуться снова. Идеальный баланс вкуса и приемлемых цен.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzPFQaqTOYbR0rAnC9WTu2mkvq/uploaded-1773602579172-n4sr5ns5.png",              imageAlt: "Профессиональное приготовление блюд"
             },
             {
-              id: "service",              title: "Настоящие профессионалы",              description: "Наш персонал — наша гордость. От вежливых официантов до профессиональных администраторов. Мы заботимся о том, чтобы ваш отдых был идеальным.",              imageSrc: "http://img.b2bpic.net/free-photo/young-happy-waitress-giving-coffee-female-guest-while-working-bar_637285-2441.jpg",              imageAlt: "Профессиональное обслуживание в ресторане"
+              id: "service",              title: "Настоящие профессионалы",              description: "Наш персонал — наша гордость. От вежливых официантов до профессиональных администраторов. Мы заботимся о том, чтобы ваш отдых был идеальным.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzPFQaqTOYbR0rAnC9WTu2mkvq/uploaded-1773602853875-5q9f64vm.png",              imageAlt: "Профессиональное обслуживание в ресторане"
             },
             {
-              id: "cleanliness",              title: "Чистота и уютный интерьер",              description: "Очень атмосферное место с интересным интерьером. Мы поддерживаем идеальную чистоту, чтобы вам было приятно находиться у нас каждую минуту.",              imageSrc: "http://img.b2bpic.net/free-photo/delicious-breakfast-with-bananas-white-table_23-2148981996.jpg",              imageAlt: "Чистый и элегантный интерьер ресторана"
+              id: "cleanliness",              title: "Чистота и уютный интерьер",              description: "Очень атмосферное место с интересным интерьером. Мы поддерживаем идеальную чистоту, чтобы вам было приятно находиться у нас каждую минуту.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzPFQaqTOYbR0rAnC9WTu2mkvq/uploaded-1773603117356-9p8w0fd1.png",              imageAlt: "Чистый и элегантный интерьер ресторана"
             },
             {
               id: "timing",              title: "Без долгого ожидания",              description: "Ценим ваше время. Быстрая подача блюд и моментальное обслуживание при среднем уровне шума — идеально для приятного вечера.",              imageSrc: "http://img.b2bpic.net/free-photo/upset-barber-man-apron-holding-wall-clock-shaving-brush-looking-camera-with-sad-expression-standing-orange-background_141793-67439.jpg",              imageAlt: "Быстрое и эффективное обслуживание"
